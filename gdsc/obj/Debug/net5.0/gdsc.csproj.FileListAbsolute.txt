@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\gdsc\bin\Debug\net5.0\gdsc.exe
+C:\Users\Alex\source\repos\gdsc\bin\Debug\net5.0\gdsc.deps.json
+C:\Users\Alex\source\repos\gdsc\bin\Debug\net5.0\gdsc.runtimeconfig.json
+C:\Users\Alex\source\repos\gdsc\bin\Debug\net5.0\gdsc.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\gdsc\bin\Debug\net5.0\gdsc.dll
+C:\Users\Alex\source\repos\gdsc\bin\Debug\net5.0\ref\gdsc.dll
+C:\Users\Alex\source\repos\gdsc\bin\Debug\net5.0\gdsc.pdb
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.AssemblyInfo.cs
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.dll
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\ref\gdsc.dll
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.pdb
+C:\Users\Alex\source\repos\gdsc\obj\Debug\net5.0\gdsc.genruntimeconfig.cache
